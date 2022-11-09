@@ -1,5 +1,5 @@
 # TEALS (level 1 heading)
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sierraleonee/TEALS/HEAD)
 This is text under level 1. *This is for the **Introduction to Software Technology** class at [Towers High School](https://www.towershs.dekalb.k12.ga.us/Default.aspx)*
 [![An image of the Towers High and Dekalb County Logo](https://www.towershs.dekalb.k12.ga.us/sysimages/logo.png)](https://www.towershs.dekalb.k12.ga.us/sysimages/logo.png)
 
